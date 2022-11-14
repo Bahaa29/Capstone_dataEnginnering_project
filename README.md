@@ -1,4 +1,6 @@
 # CAPSTONE PROJECT THE FINAL UDACITY PROJECT IN THE NANO DEGREE
+![c-1](https://user-images.githubusercontent.com/51878421/201762457-44d1dd40-57dd-4aa8-b6f2-1b0273cfd220.jpg)
+
 
 ## Immigration in the USA
 
